@@ -4,7 +4,8 @@ conexao = sqlite3.connect('bancodedados')
 cursor = conexao.cursor()
 
 
-#Exercicios Banco de Dados
+
+# Resolução do Exercicios Banco de Dados (SQL)
 
 
 # crie uma tabela chamada "alunos" com os seguintes campos: id(inteiro), nome (texto), idade (inteiro) e curso (texto).
