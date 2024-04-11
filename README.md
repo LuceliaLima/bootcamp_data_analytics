@@ -1,10 +1,10 @@
 
-<h1> 🦋WoMakersCode🦋</h1>
-
 <h1 style="display: flex; align-items: center;">
-  Bootcamp Data Analytics
+  WoMakersCode
   <img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*B8rGvo7fJ7qL4uFJ_II_-w.png" alt="Python logo" width="30" style="margin-left: 10px;">
 </h1>
+
+<h1> 🦋Bootcamp Data Analytics🦋</h1>
 
 O Bootcamp Data Analtytics é uma formação afirmativa para mulheres cisgênero e transgênero que será oferecido de forma 100% online e gratuita, em parceria com
 Potência Tech iFood e S&P Global Foundation, visando acelerar a empregabilidade de 200 mulheres na área de dados e apoiá-las na conexão com mercado de trabalho.
