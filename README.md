@@ -20,6 +20,8 @@ Cronograma de Conteúdo do Curso
 - Módulo 4: Métodos Ágeis
 - Módulo 5: Git e GitHub
 - Módulo 6: Python para Dados
+          https://github.com/LuceliaLima/bootcamp_data_analytics/blob/main/python_para_dados/Desafio%20Individual%20-%20Python%20para%20Dados.ipynb
+  
 - Módulo 7: Banco de Dados SQL
 - Módulo 8: Estatística com Python parte 1: Frequências e Medidas
 - Módulo 9: Estatística com Python parte 2: Probabilidade e Amostragem
