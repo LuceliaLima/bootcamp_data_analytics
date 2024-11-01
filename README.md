@@ -25,10 +25,17 @@ Cronograma de Conteúdo do Curso
   
 - Módulo 7: Banco de Dados SQL
 
-  [- Desafio: Python para Dados](https://github.com/LuceliaLima/bootcamp_data_analytics/tree/main/SQL) 
+  [- Desafio: SQL](https://github.com/LuceliaLima/bootcamp_data_analytics/tree/main/SQL) 
   
 - Módulo 8: Estatística com Python parte 1: Frequências e Medidas
+
+  [- Desafio: Frequências e Medidas](https://github.com/LuceliaLima/bootcamp_data_analytics/blob/main/frequ%C3%AAncias_%20e_medidas/Desafio%20Individual%20%20Frequ%C3%AAncias%20e%20Medidas.ipynb) 
+
+
 - Módulo 9: Estatística com Python parte 2: Probabilidade e Amostragem
+
+  [- Desafio: Probabilidade e Amostragem](https://github.com/LuceliaLima/bootcamp_data_analytics/blob/main/probabilidade_e_amostragem/Desafio%20Individual%20-%20Probabilidade%20e%20Amostragem.ipynb) 
+
 - Módulo 10: Estatística com Python parte 3: Testes de hipóteses
 - Módulo 11: Estatística com Python parte 4: Correlação e Regressão
 - Módulo 12: Regressão Logística: Modelos de Classificação
