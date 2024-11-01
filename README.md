@@ -29,7 +29,7 @@ Cronograma de Conteúdo do Curso
   
 - Módulo 8: Estatística com Python parte 1: Frequências e Medidas
 
-  [- Desafio: Frequências e Medidas](https://github.com/LuceliaLima/bootcamp_data_analytics/blob/main/frequ%C3%AAncias_%20e_medidas/Desafio%20Individual%20%20Frequ%C3%AAncias%20e%20Medidas.ipynb) 
+  [- Desafio: Frequências e Medidas](https://github.com/LuceliaLima/bootcamp_data_analytics/blob/main/frequ%C3%AAncias_%20e_medidas/Desafio%20Individual%20-%20Frequ%C3%AAncias%20e%20Medidas.ipynb) 
 
 
 - Módulo 9: Estatística com Python parte 2: Probabilidade e Amostragem
@@ -37,10 +37,25 @@ Cronograma de Conteúdo do Curso
   [- Desafio: Probabilidade e Amostragem](https://github.com/LuceliaLima/bootcamp_data_analytics/blob/main/probabilidade_e_amostragem/Desafio%20Individual%20-%20Probabilidade%20e%20Amostragem.ipynb) 
 
 - Módulo 10: Estatística com Python parte 3: Testes de hipóteses
+
+  [- Desafio: Teste de Hipóteses](https://github.com/LuceliaLima/bootcamp_data_analytics/blob/main/testes_de_hipoteses/Desafio%20Indivividual%20-%20%20Teste%20de%20Hip%C3%B3teses%20.ipynb) 
+  
 - Módulo 11: Estatística com Python parte 4: Correlação e Regressão
+
+  [- Desafio: Correlação e Regressão](https://github.com/LuceliaLima/bootcamp_data_analytics/blob/main/correlacao_e_regressao/Desafio%20Individual%20-%20Correla%C3%A7%C3%A3o%20e%20Regress%C3%A3o.ipynb)
+
 - Módulo 12: Regressão Logística: Modelos de Classificação
+
+  [- Desafio: Modelo de Classificação](https://github.com/LuceliaLima/bootcamp_data_analytics/blob/main/modelo_classificacao/Desafio_Individual_Modelo_de_Classifica%C3%A7%C3%A3o_e_Regress%C3%A3o_Log%C3%ADstica.ipynb)
+  
 - Módulo 13: Data Visualization: criando gráficos com bibliotecas Python
+
+  [- Desafio: Data Visualization](https://github.com/LuceliaLima/bootcamp_data_analytics/blob/main/data_visualization/Desafio_Individual_Data_Visualization.ipynb)
+  
 - Módulo 14: Data Analysis com Google Sheets
+
+  [- Desafio: Google Sheets](https://github.com/LuceliaLima/bootcamp_data_analytics/blob/main/google_sheets/Exerc%C3%ADcio%20Pr%C3%A1tico%20-%20Google%20Sheets.xlsx)
+  
 - Módulo 15: Power BI
 - Módulo 16: Computação em Nuvem
 - Módulo 17: Preparação para processos seletivos
